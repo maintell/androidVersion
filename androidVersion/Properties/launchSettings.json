@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "androidVersion": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\appupdate\\appupdatetest\\platforms\\android\\app\\src\\main"
+    }
+  }
+}
